@@ -36,23 +36,24 @@ export default function Contact() {
               <Mail className="text-[#6B7280]" />
               <div>
                 <p className="font-semibold text-[#0B1C2D]">Email</p>
-                <p className="text-[#6B7280]">contact@khyoot.com</p>
+                <p className="text-[#6B7280]">aboelkhairahmed869@gmail.com</p>
               </div>
             </div>
 
-            <div className="flex items-center gap-4">
+            {/* <div className="flex items-center gap-4">
               <Phone className="text-[#6B7280]" />
               <div>
                 <p className="font-semibold text-[#0B1C2D]">Phone</p>
-                <p className="text-[#6B7280]">+966 000 000 000</p>
+                <p className="text-[#6B7280]">+20 1099622861</p>
+                <p className="text-[#6B7280]">+20 1050972767</p>
               </div>
-            </div>
+            </div> */}
 
             <div className="flex items-center gap-4">
               <MapPin className="text-[#6B7280]" />
               <div>
                 <p className="font-semibold text-[#0B1C2D]">Location</p>
-                <p className="text-[#6B7280]">Saudi Arabia</p>
+                <p className="text-[#6B7280]">EGYPT - ELMANSOURA</p>
               </div>
             </div>
           </motion.div>
