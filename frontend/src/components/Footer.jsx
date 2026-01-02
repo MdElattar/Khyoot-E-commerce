@@ -17,8 +17,6 @@ const Footer = () => {
       title: "Customer Service", 
       links: [
         { name: "FAQ", path: "/faq" },
-        { name: "Shipping Policy", path: "/shipping" },
-        { name: "Returns & Exchanges", path: "/returns" },
         { name: "Privacy Policy", path: "/privacy" },
       ]
     },
@@ -26,8 +24,7 @@ const Footer = () => {
       title: "My Account", 
       links: [
         { name: "My Cart", path: "/cart" },
-        { name: "Wishlist", path: "/wishlist" },
-        { name: "Track Order", path: "/track" },
+        { name: "Track Order", path: "/orders" },
         { name: "Login/Register", path: "/login" },
       ]
     },
